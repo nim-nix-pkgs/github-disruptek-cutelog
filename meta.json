@@ -1,0 +1,80 @@
+{
+  "description": "A stylish little logger to replace echo in command-line apps",
+  "doc": "https://disruptek.github.io/cutelog/cutelog.html",
+  "license": "MIT",
+  "method": "git",
+  "name": "github-disruptek-cutelog",
+  "tags": [
+    {
+      "description": "A stylish little logger to replace echo in command-line apps",
+      "license": "MIT",
+      "name": "github-disruptek-cutelog",
+      "ref": "refs/tags/1.0.1",
+      "url": "https://github.com/disruptek/cutelog",
+      "version": "1_0_1"
+    },
+    {
+      "description": "A stylish little logger to replace echo in command-line apps",
+      "license": "MIT",
+      "name": "github-disruptek-cutelog",
+      "ref": "refs/tags/1.0.2",
+      "url": "https://github.com/disruptek/cutelog",
+      "version": "1_0_2"
+    },
+    {
+      "description": "A stylish little logger to replace echo in command-line apps",
+      "license": "MIT",
+      "name": "github-disruptek-cutelog",
+      "ref": "refs/tags/1.1.0",
+      "url": "https://github.com/disruptek/cutelog",
+      "version": "1_1_0"
+    },
+    {
+      "description": "A stylish little logger to replace echo in command-line apps",
+      "license": "MIT",
+      "name": "github-disruptek-cutelog",
+      "ref": "refs/tags/1.1.1",
+      "url": "https://github.com/disruptek/cutelog",
+      "version": "1_1_1"
+    },
+    {
+      "description": "A stylish little logger to replace echo in command-line apps",
+      "license": "MIT",
+      "name": "github-disruptek-cutelog",
+      "ref": "refs/tags/1.1.2",
+      "url": "https://github.com/disruptek/cutelog",
+      "version": "1_1_2"
+    },
+    {
+      "description": "A stylish little logger to replace echo in command-line apps",
+      "license": "MIT",
+      "name": "github-disruptek-cutelog",
+      "ref": "refs/tags/2.0.0",
+      "url": "https://github.com/disruptek/cutelog",
+      "version": "2_0_0"
+    }
+  ],
+  "url": "https://github.com/disruptek/cutelog",
+  "web": "https://github.com/disruptek/cutelog",
+  "refs": [
+    "refs/heads/master",
+    "refs/heads/travis",
+    "refs/tags/1.0.1",
+    "refs/tags/1.0.2",
+    "refs/tags/1.1.0",
+    "refs/tags/1.1.1",
+    "refs/tags/1.1.2",
+    "refs/tags/2.0.0",
+    ""
+  ],
+  "heads": [
+    {
+      "description": "A stylish little logger to replace echo in command-line apps",
+      "license": "MIT",
+      "name": "github-disruptek-cutelog",
+      "ref": "refs/heads/master",
+      "url": "https://github.com/disruptek/cutelog",
+      "version": "master"
+    }
+  ]
+}
