@@ -1,0 +1,8 @@
+{
+  "description": "A stylish little logger to replace echo in command-line apps",
+  "license": "MIT",
+  "name": "github-disruptek-cutelog",
+  "ref": "refs/heads/master",
+  "url": "https://github.com/disruptek/cutelog",
+  "version": "master"
+}
