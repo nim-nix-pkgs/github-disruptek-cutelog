@@ -7,7 +7,7 @@
   "tags": [],
   "url": "https://github.com/disruptek/cutelog",
   "refs": [
-    "fatal: unable to access 'https://github.com/disruptek/cutelog/': Could not resolve host: github.com",
+    "fatal: unable to access 'https://github.com/disruptek/cutelog/': Failed to connect to github.com port 443 after 132378 ms: Connection timed out",
     ""
   ],
   "heads": []
