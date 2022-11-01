@@ -39,22 +39,22 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-cutelog-master": "src-cutelog-master"
+        "src-cutelog-2_0_1": "src-cutelog-2_0_1"
       }
     },
-    "src-cutelog-master": {
+    "src-cutelog-2_0_1": {
       "flake": false,
       "locked": {
-        "lastModified": 1665598933,
-        "narHash": "sha256-H18+gfEQ+vIZ/Daa79844jfkmyYGxxRi8Zp6ZI3Boas=",
+        "lastModified": 1665598925,
+        "narHash": "sha256-Z5T1CwWe3Wq+/dllEq3/x3KJcpoUYQsnNzGeqGcCTQo=",
         "owner": "disruptek",
         "repo": "cutelog",
-        "rev": "ad25ccc91c6ea2818dc1b3695ee85ca760be01aa",
+        "rev": "7dae9f862a57948ff1e7eee286565eb3b52b6c71",
         "type": "github"
       },
       "original": {
         "owner": "disruptek",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/2.0.1",
         "repo": "cutelog",
         "type": "github"
       }
